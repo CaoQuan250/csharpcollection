@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Collection\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll

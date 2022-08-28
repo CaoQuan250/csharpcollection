@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\bin\Debug\net6.0\HashtableTest.exe
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\bin\Debug\net6.0\HashtableTest.deps.json
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\bin\Debug\net6.0\HashtableTest.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\bin\Debug\net6.0\HashtableTest.dll
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\bin\Debug\net6.0\HashtableTest.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.dll
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\refint\HashtableTest.dll
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\HashtableTest.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Collection\HashtableTest\obj\Debug\net6.0\ref\HashtableTest.dll

@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\bin\Debug\net6.0\ArrayListClass.exe
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\bin\Debug\net6.0\ArrayListClass.deps.json
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\bin\Debug\net6.0\ArrayListClass.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\bin\Debug\net6.0\ArrayListClass.dll
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\bin\Debug\net6.0\ArrayListClass.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.dll
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\refint\ArrayListClass.dll
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.pdb
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ArrayListClass.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Collection\Collection\obj\Debug\net6.0\ref\ArrayListClass.dll
